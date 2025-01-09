@@ -1,0 +1,9 @@
+C:\Users\Aselatto\source\repos\RandomPngGenerator\RandomPngGenerator\bin\Release\RandomPngGenerator.exe.config
+C:\Users\Aselatto\source\repos\RandomPngGenerator\RandomPngGenerator\bin\Release\RandomPngGenerator.exe
+C:\Users\Aselatto\source\repos\RandomPngGenerator\RandomPngGenerator\bin\Release\RandomPngGenerator.pdb
+C:\Users\Aselatto\source\repos\RandomPngGenerator\RandomPngGenerator\obj\Release\RandomPngGenerator.csproj.AssemblyReference.cache
+C:\Users\Aselatto\source\repos\RandomPngGenerator\RandomPngGenerator\obj\Release\RandomPngGenerator.Properties.Resources.resources
+C:\Users\Aselatto\source\repos\RandomPngGenerator\RandomPngGenerator\obj\Release\RandomPngGenerator.csproj.GenerateResource.cache
+C:\Users\Aselatto\source\repos\RandomPngGenerator\RandomPngGenerator\obj\Release\RandomPngGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Aselatto\source\repos\RandomPngGenerator\RandomPngGenerator\obj\Release\RandomPngGenerator.exe
+C:\Users\Aselatto\source\repos\RandomPngGenerator\RandomPngGenerator\obj\Release\RandomPngGenerator.pdb
